@@ -1,0 +1,65 @@
+{
+  "products": [
+    {
+      "name": "Smartphone XIAOMI Redmi 13C 6.72 8GB 256GB 50MP + Macro 2MP + QVGA Midnight Black",
+      "price": "599",
+      "image": "https://plazavea.vteximg.com.br/arquivos/ids/28593221-450-450/20392765.jpg",
+      "id": "1"
+    },
+    {
+      "name": "Smartphone SAMSUNG Galaxy A05 6.7 4GB 64GB 50MP + 2MP Negro",
+      "price": "389",
+      "image": "https://plazavea.vteximg.com.br/arquivos/ids/29206277-450-450/20393787.jpg",
+      "id": "2"
+    },
+    {
+      "name": "Smartphone MOTOROLA G34 6.5 8GB 256GB 50MP+2MP Negro Meteorito",
+      "price": "649",
+      "image": "https://plazavea.vteximg.com.br/arquivos/ids/28884644-450-450/20402226.jpg",
+      "id": "3"
+    },
+    {
+      "name": "Smartphone ZTE A34 6.6 4GB 64GB 5MP Gris",
+      "price": "269",
+      "image": "https://plazavea.vteximg.com.br/arquivos/ids/29148895-450-450/20421953.jpg",
+      "id": "4"
+    },
+    {
+      "name": "Smartphone OPPO A78 6.43 8GB 256GB 50MP + 2MP Verde",
+      "price": "799",
+      "image": "https://plazavea.vteximg.com.br/arquivos/ids/27596502-450-450/20376765.jpg",
+      "id": "5"
+    },
+    {
+      "name": "Smartphone HONOR X6A 6.55 4GB 128GB 50MP + 2MP + 2MP Stellar Silver",
+      "price": "499",
+      "image": "https://plazavea.vteximg.com.br/arquivos/ids/28647081-450-450/20393901.jpg",
+      "id": "6"
+    },
+    {
+      "name": "Celular Apple Iphone 13 128GB Negro",
+      "price": "2609",
+      "image": "https://plazavea.vteximg.com.br/arquivos/ids/14337233-450-450/imageUrl_1.jpg",
+      "id": "7"
+    },
+    {
+      "name": "Smartphone VIVO Y03 6.64 4GB 128GB 13 MP + 8MP Verde",
+      "price": "349",
+      "image": "https://plazavea.vteximg.com.br/arquivos/ids/29148844-450-450/20424001.jpg",
+      "id": "8"
+    },
+    {
+      "name": "Smartphone HUAWEI NOVA 10 SE 6.67 8GB 128GB 108 MP + 8 MP + 2 MP Negro",
+      "price": "1199",
+      "image": "https://plazavea.vteximg.com.br/arquivos/ids/26110265-450-450/20327623.jpg",
+      "id": "9"
+    },
+    {
+      "name": "Smartphone NOKIA C21 6.5 2GB 64GB 13MP + 2MP Cyan",
+      "price": "209",
+      "image": "https://plazavea.vteximg.com.br/arquivos/ids/26535436-450-450/20354750.jpg",
+      "id": "10"
+    }
+    
+  ]
+}
